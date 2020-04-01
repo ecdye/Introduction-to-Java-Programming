@@ -15,11 +15,8 @@
 import java.util.Scanner;
 
 public class Exercise1_8 {
-	private static Scanner input = new Scanner(System.in);
-
 	public static void main(String[] args) {
-		double radius = input.nextDouble();
-		input.close();
+		double radius = 5.5;
 		double perimeter = 2 * radius * Math.PI;
 		double area = radius * radius * Math.PI;
 		System.out.println("perimeter = " + perimeter);
