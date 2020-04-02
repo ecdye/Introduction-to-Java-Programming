@@ -1,6 +1,6 @@
 /**
  * Exercise1_3.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Display a pattern) Write a program that displays the following
  * pattern:

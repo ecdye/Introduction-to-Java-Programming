@@ -1,4 +1,4 @@
-# Introduction to Java Programming, AP<sup>®</sup> Edition
+# Introduction to Java Programming, AP<sup>®</sup> Edition. 10<sup>th</sup> ed.
 
 ## Chapter 1
 

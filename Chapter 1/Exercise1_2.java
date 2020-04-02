@@ -1,6 +1,6 @@
 /**
  * Exercise1_2.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Display five messages) Write a program that displays Welcome to Java
  * five times.

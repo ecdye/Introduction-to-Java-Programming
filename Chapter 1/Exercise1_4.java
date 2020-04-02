@@ -1,6 +1,6 @@
 /**
  * Exercise1_4.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Print a table) Write a program that displays the following table:
  *

@@ -1,4 +1,4 @@
-# Introduction to Java Programming, AP<sup>®</sup> Edition
+# Introduction to Java Programming, AP<sup>®</sup> Edition. 10<sup>th</sup> ed.
 
 [![License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 

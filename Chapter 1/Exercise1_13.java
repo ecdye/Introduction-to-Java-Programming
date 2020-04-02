@@ -1,6 +1,6 @@
 /**
  * Exercise1_13.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Algebra: solve 2 x 2 linear equations) You can use Cramer's rule
  * to solve the following 2 x 2 system of linear equasion provided that ad - bc

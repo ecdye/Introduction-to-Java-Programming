@@ -1,6 +1,6 @@
 /**
 * Exercise1_10.java
-* Introduction to Java Programming
+* Introduction to Java Programming, AP Edition. 10th ed.
 *
 * Problem: (Average speed in miles) Assume a runner runs 14 kilometers in
 * 45 minutes and 30 seconds. Write a program that displays the average speed in

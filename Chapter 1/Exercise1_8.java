@@ -1,6 +1,6 @@
 /**
  * Exercise1_8.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Area and perimeter of a circle) Write a program that displays the
  * area and perimeter of a circle that has a radius of 5.5 using the following

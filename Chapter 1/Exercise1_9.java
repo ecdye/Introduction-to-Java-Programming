@@ -1,6 +1,6 @@
 /**
  * Exercise1_9.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Area and perimeter of a rectangle) Write a program that displays the
  * area and perimeter of a rectangle with the width of 4.5 and a height of 7.9

@@ -1,6 +1,6 @@
 /**
  * Exercise1_6.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Summation of a series) Write a program that displays the result of:
  *

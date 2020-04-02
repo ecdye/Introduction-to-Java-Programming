@@ -1,6 +1,6 @@
 /**
  * Exercise1_1.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Display three messages) Write a program that displays
  * Welcome to Java, Welcome to Computer Science, and Programming is fun.

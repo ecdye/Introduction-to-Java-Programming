@@ -1,6 +1,6 @@
 /**
  * Exercise1_5.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Compute expressions) Write a program that displays the result of:
  *

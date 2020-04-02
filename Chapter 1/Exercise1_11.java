@@ -1,6 +1,6 @@
 /**
  * Exercise1_11.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Population Projection) The U.S. Census Bureau projects population
  * based on the following assumptions:

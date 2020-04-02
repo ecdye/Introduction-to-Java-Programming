@@ -1,6 +1,6 @@
 /**
  * Exercise1_7.java
- * Introduction to Java Programming
+ * Introduction to Java Programming, AP Edition. 10th ed.
  *
  * Problem: (Approximate π) π can be computed using the following formula:
  *
