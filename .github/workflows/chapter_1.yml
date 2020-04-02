@@ -4,9 +4,11 @@ on:
   push:
     paths:
     - 'Chapter 1/**'
+    - '.github/**'
   pull_request:
     paths:
     - 'Chapter 1/**'
+    - '.github/**'
 
 jobs:
   chapter_1:
@@ -15,65 +17,78 @@ jobs:
     - uses: actions/checkout@v2
     - name: Exercise1_1
       run: |
-        javac "./Chapter 1/Exericse1_1.java"
-        java "./Chapter 1/Exericse1_1"
+        cd "Chapter 1"
+        javac "Exercise1_1.java"
+        java "Exercise1_1"
 
     - name: Exercise1_2
       run: |
-        javac "./Chapter 1/Exericse1_2.java"
-        java "./Chapter 1/Exericse1_2"
+        cd "Chapter 1"
+        javac "Exercise1_2.java"
+        java "Exercise1_2"
 
     - name: Exercise1_3
       run: |
-        javac "./Chapter 1/Exericse1_3.java"
-        java "./Chapter 1/Exericse1_3"
+        cd "Chapter 1"
+        javac "Exercise1_3.java"
+        java "Exercise1_3"
 
     - name: Exercise1_4
       run: |
-        javac "./Chapter 1/Exericse1_4.java"
-        java "./Chapter 1/Exericse1_4"
+        cd "Chapter 1"
+        javac "Exercise1_4.java"
+        java "Exercise1_4"
 
     - name: Exercise1_5
       run: |
-        javac "./Chapter 1/Exericse1_5.java"
-        java "./Chapter 1/Exericse1_5"
+        cd "Chapter 1"
+        javac "Exercise1_5.java"
+        java "Exercise1_5"
 
     - name: Exercise1_6
       run: |
-        javac "./Chapter 1/Exericse1_6.java"
-        java "./Chapter 1/Exericse1_6"
+        cd "Chapter 1"
+        javac "Exercise1_6.java"
+        java "Exercise1_6"
 
     - name: Exercise1_7
       run: |
-        javac "./Chapter 1/Exericse1_7.java"
-        java "./Chapter 1/Exericse1_7"
+        cd "Chapter 1"
+        javac "Exercise1_7.java"
+        java "Exercise1_7"
 
     - name: Exercise1_8
       run: |
-        javac "./Chapter 1/Exericse1_8.java"
-        java "./Chapter 1/Exericse1_8"
+        cd "Chapter 1"
+        javac "Exercise1_8.java"
+        java "Exercise1_8"
 
     - name: Exercise1_9
       run: |
-        javac "./Chapter 1/Exericse1_9.java"
-        java "./Chapter 1/Exericse1_9"
+        cd "Chapter 1"
+        javac "Exercise1_9.java"
+        java "Exercise1_9"
 
     - name: Exercise1_10
       run: |
-        javac "./Chapter 1/Exericse1_10.java"
-        java "./Chapter 1/Exericse1_10"
+        cd "Chapter 1"
+        javac "Exercise1_10.java"
+        java "Exercise1_10"
 
     - name: Exercise1_11
       run: |
-        javac "./Chapter 1/Exericse1_11.java"
-        java "./Chapter 1/Exericse1_11"
+        cd "Chapter 1"
+        javac "Exercise1_11.java"
+        java "Exercise1_11"
 
     - name: Exercise1_12
       run: |
-        javac "./Chapter 1/Exericse1_12.java"
-        java "./Chapter 1/Exericse1_12"
+        cd "Chapter 1"
+        javac "Exercise1_12.java"
+        java "Exercise1_12"
 
     - name: Exercise1_13
       run: |
-        javac "./Chapter 1/Exericse1_13.java"
-        java "./Chapter 1/Exericse1_13"
+        cd "Chapter 1"
+        javac "Exercise1_13.java"
+        java "Exercise1_13"
